@@ -1,6 +1,6 @@
 Exercises to learn regular expressions.
 
-## Installation
+## Installation
 
 Install Composer dependencies
 
